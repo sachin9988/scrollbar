@@ -1,0 +1,29 @@
+{
+  "name": "scrollbar",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "12.2.2",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "apollo-cache-inmemory": "1.5.1",
+    "apollo-client": "2.5.1",
+    "apollo-link-http": "1.5.14",
+    "graphql": "14.2.1",
+    "graphql-tag": "2.8.0",
+    "numeral": "2.0.6",
+    "react-apollo": "2.5.5",
+    "react-apollo-hooks": "0.4.5",
+    "react-native-web": "0.11.2"
+  },
+  "devDependencies": {
+    "eslint": "8.20.0",
+    "eslint-config-next": "12.2.2"
+  }
+}
